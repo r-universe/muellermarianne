@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "iarm"]
 	path = iarm
-	url = https://github.com/muellermarianne/iarm
+	url = https://github.com/cran/iarm
